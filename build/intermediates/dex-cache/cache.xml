@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Studio_Workspace\ETicket-HYD\libs\core-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="F:\Studio_Workspace\ETicket-HYD\build\intermediates\transforms\dex\debug\folders\1000\2\core-3.2.0_a745454a64672a9a3feda126d2421f6e97e24d56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Studio_Workspace\ETicket-HYD\libs\ksoap2-android-assembly-2.4-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e8796346a9191a019e936210a2dc50662c57594b">
+        <dex dex="F:\Studio_Workspace\ETicket-HYD\build\intermediates\transforms\dex\debug\folders\1000\2\ksoap2-android-assembly-2.4-jar-with-dependencies_3a2645a9010dc53aeb781ba087719dcabf4536b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Studio_Workspace\ETicket-HYD\libs\commons-validator-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42fa1046955ade59f5354a1876cfc523cea33815">
+        <dex dex="F:\Studio_Workspace\ETicket-HYD\build\intermediates\transforms\dex\debug\folders\1000\2\commons-validator-1.4.0_b77a20cd09fe5fba7ee34ef554d362db3a9a23df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Studio_Workspace\ETicket-HYD\libs\opencv_library-2.4.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e92dfaeacc97afc46002172e0d0d55b33838715b">
+        <dex dex="F:\Studio_Workspace\ETicket-HYD\build\intermediates\transforms\dex\debug\folders\1000\2\opencv_library-2.4.3_571a80ea2e0fc62f02fd073c008a03800eba9669\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Studio_Workspace\ETicket-HYD\libs\mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="931fcfbb26a7f24a7a8a252e804889cae1b6fb21">
+        <dex dex="F:\Studio_Workspace\ETicket-HYD\build\intermediates\transforms\dex\debug\folders\1000\2\mail_61cb19211cb1b33885f14775637ea547d3391d97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Studio_Workspace\ETicket-HYD\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="F:\Studio_Workspace\ETicket-HYD\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.3_08233256e953b56f984b5e6147d75fe367e1acb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Studio_Workspace\ETicket-HYD\libs\securityJar.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addea9b025d2f1a7d9150cae451aab7d2739065">
+        <dex dex="F:\Studio_Workspace\ETicket-HYD\build\intermediates\transforms\dex\debug\folders\1000\2\securityJar_6a66e565cdb70465fbd6eb449d8df78b05440e61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Studio_Workspace\ETicket-HYD\libs\commons-net-3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="342fc284019f590e1308056990fdb24a08f06318">
+        <dex dex="F:\Studio_Workspace\ETicket-HYD\build\intermediates\transforms\dex\debug\folders\1000\2\commons-net-3.5_9cdb101f52054f8d85b482a755e38bf8a418c2e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Studio_Workspace\ETicket-HYD\libs\sun.misc.BASE64Decoder.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="acd93e3727886196f9b8434279ff445ba8611186">
+        <dex dex="F:\Studio_Workspace\ETicket-HYD\build\intermediates\transforms\dex\debug\folders\1000\2\sun.misc.BASE64Decoder_a08802e979435333a3d57603b02356f8022dec17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Studio_Workspace\ETicket-HYD\libs\AnalogicsVersa3TBTPrinterAPI.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f335fd581184b2160164d065f0ecd3c4f2b7df0">
+        <dex dex="F:\Studio_Workspace\ETicket-HYD\build\intermediates\transforms\dex\debug\folders\1000\2\AnalogicsVersa3TBTPrinterAPI_6b3efd392fc24bba3b1eff9c3002348836fce0a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Studio_Workspace\ETicket-HYD\libs\org-apache-commons-codec.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9c6412a9f19fc03760ca0cf4708bca50f57a80c">
+        <dex dex="F:\Studio_Workspace\ETicket-HYD\build\intermediates\transforms\dex\debug\folders\1000\2\org-apache-commons-codec_de44eeee5eab9588a437fe7f1621c5936bfa611e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Studio_Workspace\ETicket-HYD\libs\common-lang3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70d0d4ddef60cfa67f28fd3382fc631119380030">
+        <dex dex="F:\Studio_Workspace\ETicket-HYD\build\intermediates\transforms\dex\debug\folders\1000\2\common-lang3_2d9f61c5fec2ebbef5f3c9bb406627e31ab682ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Studio_Workspace\ETicket-HYD\libs\commons-net-examples-3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6272d80e897347c3c5f3691c8d76eae5deb764e1">
+        <dex dex="F:\Studio_Workspace\ETicket-HYD\build\intermediates\transforms\dex\debug\folders\1000\2\commons-net-examples-3.5_cee5f9228697d66b17c2bc9539917ea12d39553a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Studio_Workspace\ETicket-HYD\libs\ftp4j-1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5587b19a4527cf8e0e53a58aff649e06dbd869d9">
+        <dex dex="F:\Studio_Workspace\ETicket-HYD\build\intermediates\transforms\dex\debug\folders\1000\2\ftp4j-1.6_286ea6110fd97a82a57cf7b367dc809839d5c7bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Studio_Workspace\ETicket-HYD\libs\signature.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ef58d22656775f6234ae5a7a619eaf3a9388223">
+        <dex dex="F:\Studio_Workspace\ETicket-HYD\build\intermediates\transforms\dex\debug\folders\1000\2\signature_42c5e2fc94ae08952f0521b6925cfb10bdee3461\classes.dex" />
+    </item>
+
+</items>

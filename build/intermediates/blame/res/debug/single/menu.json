@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\menu\\main.xml"
+    }
+]

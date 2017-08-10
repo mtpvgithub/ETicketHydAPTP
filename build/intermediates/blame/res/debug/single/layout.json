@@ -1,0 +1,1358 @@
+[
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\pinpad_list_item_device.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\pinpad_list_item_device.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\eff456cfa3a1387e1330af11a1bfe3ab45c71cb4\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\drunk__drive__fake__dialog.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\drunk__drive__fake__dialog.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\eff456cfa3a1387e1330af11a1bfe3ab45c71cb4\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_popup_details.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\activity_popup_details.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings__old.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\activity_settings__old.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\activity_e__challan.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\activity_e__challan.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_password.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_paired_devices.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\activity_paired_devices.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\apk_progressbar.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\apk_progressbar.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\email_mobile_no.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\email_mobile_no.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\activity_releaseversion.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\activity_releaseversion.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\eff456cfa3a1387e1330af11a1bfe3ab45c71cb4\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\drunk__drive__fake__dialog.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\drunk__drive__fake__dialog.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dd__response__print.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\activity_dd__response__print.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\custom_progress_dialog.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\custom_progress_dialog.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_device.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\list_item_device.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\drunk_drive_two.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\drunk_drive_two.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_get_pin_pad.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\activity_get_pin_pad.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\eff456cfa3a1387e1330af11a1bfe3ab45c71cb4\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dd__response__print.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\activity_dd__response__print.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\ip_setting.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\ip_setting.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\dashboard_pc.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\dashboard_pc.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\cust_toast.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\cust_toast.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\eff456cfa3a1387e1330af11a1bfe3ab45c71cb4\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\reports.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\reports.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_otp_input.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\activity_otp_input.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_date_of_birth__update.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\activity_date_of_birth__update.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\eff456cfa3a1387e1330af11a1bfe3ab45c71cb4\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\eff456cfa3a1387e1330af11a1bfe3ab45c71cb4\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_otp.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\activity_otp.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\drunk_drive_three.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\drunk_drive_three.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pin_pad__list.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\activity_pin_pad__list.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\eff456cfa3a1387e1330af11a1bfe3ab45c71cb4\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline__settings.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\activity_offline__settings.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\activity_paired_devices.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\activity_paired_devices.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\cust_pen_challans.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\cust_pen_challans.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_paired_devices.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\activity_paired_devices.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline__generate_case.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\activity_offline__generate_case.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\blutooth_list_devices.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\blutooth_list_devices.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\pinpad_list_item_device.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\pinpad_list_item_device.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\drunk_drive_response.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\drunk_drive_response.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\eff456cfa3a1387e1330af11a1bfe3ab45c71cb4\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\drunk_drive_response.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\drunk_drive_response.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\dynamic_violations.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\dynamic_violations.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\pinpad_list_item_device.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\pinpad_list_item_device.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\eff456cfa3a1387e1330af11a1bfe3ab45c71cb4\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\apk_progressbar.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\apk_progressbar.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\f62cf2fbb596e32d05777c427bee1627fe223a12\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\eff456cfa3a1387e1330af11a1bfe3ab45c71cb4\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\apk_progressbar.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\apk_progressbar.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\version_details.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\version_details.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\activity_minor.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\activity_minor.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\version_details.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\version_details.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\f62cf2fbb596e32d05777c427bee1627fe223a12\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\spot_challan_two.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\spot_challan_two.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_aadhaar__update__print.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\activity_aadhaar__update__print.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\drunk_drive_two.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\drunk_drive_two.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_aadhaar__update__print.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\activity_aadhaar__update__print.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_releaseversion.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\activity_releaseversion.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\activity_otp.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\activity_otp.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\generate_dd.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\generate_dd.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_e__challan.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\activity_e__challan.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\dashboard_pc.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\dashboard_pc.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\f62cf2fbb596e32d05777c427bee1627fe223a12\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\drunk_drive_response.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\drunk_drive_response.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dashboard__old.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\activity_dashboard__old.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\activity_aadhaar__update__print.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\activity_aadhaar__update__print.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\eff456cfa3a1387e1330af11a1bfe3ab45c71cb4\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\cust_toast.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\cust_toast.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\ip_setting.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\ip_setting.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\drunk_drive_three.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\drunk_drive_three.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_e__challan.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\activity_e__challan.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\myprogressdialog.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\myprogressdialog.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\activity_extra_passengers.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\activity_extra_passengers.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\drunkdrive.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\drunkdrive.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pin_pad_list.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\activity_pin_pad_list.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_aadhaar_update.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\activity_aadhaar_update.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_special_drive.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\activity_special_drive.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pin_pad__list.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\activity_pin_pad__list.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\pen_challans.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\pen_challans.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_dropdown_item.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\pending_challans_details.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\pending_challans_details.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\dashboard.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\dashboard.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\drunk_drive_three.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\drunk_drive_three.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline__settings.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\activity_offline__settings.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dashboard__old.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\activity_dashboard__old.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\eff456cfa3a1387e1330af11a1bfe3ab45c71cb4\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\duplicateprint.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\duplicateprint.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_device.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\list_item_device.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_e__challan__reports.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\activity_e__challan__reports.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_get_pin_pad.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\activity_get_pin_pad.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\spot_response.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\spot_response.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\pen_challans.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\pen_challans.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\eff456cfa3a1387e1330af11a1bfe3ab45c71cb4\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\f62cf2fbb596e32d05777c427bee1627fe223a12\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\ip_setting.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\ip_setting.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\eff456cfa3a1387e1330af11a1bfe3ab45c71cb4\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\eff456cfa3a1387e1330af11a1bfe3ab45c71cb4\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\fake_no_alert.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\fake_no_alert.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\drunk_drive_two.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\drunk_drive_two.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\version_details.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\version_details.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_respone__print.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\activity_respone__print.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\duplicateprint.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\duplicateprint.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\drunkdrive.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\drunkdrive.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\eff456cfa3a1387e1330af11a1bfe3ab45c71cb4\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\activity_aadhaar_update.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\activity_aadhaar_update.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_otp_input.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\activity_otp_input.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_extra_passengers.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\activity_extra_passengers.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_special__drive.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\activity_special__drive.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\f62cf2fbb596e32d05777c427bee1627fe223a12\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_respone__print.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\activity_respone__print.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\vhcle_hstry_pchallans.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\vhcle_hstry_pchallans.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\f62cf2fbb596e32d05777c427bee1627fe223a12\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\pen_challans.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\pen_challans.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\spot_challan.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\spot_challan.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_e__challan__reports.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\activity_e__challan__reports.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\pending_challans_details.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\pending_challans_details.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\email_mobile_no.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\email_mobile_no.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\activity_special__drive.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\activity_special__drive.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\f62cf2fbb596e32d05777c427bee1627fe223a12\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline_dashboard.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\activity_offline_dashboard.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\f62cf2fbb596e32d05777c427bee1627fe223a12\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\reports.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\reports.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\activity_popup_details.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\activity_popup_details.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\fake_no_alert.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\fake_no_alert.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\eff456cfa3a1387e1330af11a1bfe3ab45c71cb4\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pin_pad_list.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\activity_pin_pad_list.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\generate_dd.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\generate_dd.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\drunk__drive__fake__dialog.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\drunk__drive__fake__dialog.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\blutooth_list_devices.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\blutooth_list_devices.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\vhcle_hstry_pchallans.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\vhcle_hstry_pchallans.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings__old.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\activity_settings__old.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\activity_e__challan__reports.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\activity_e__challan__reports.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\f62cf2fbb596e32d05777c427bee1627fe223a12\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\f62cf2fbb596e32d05777c427bee1627fe223a12\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_special__drive.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\activity_special__drive.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_dropdown_item.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\activity_get_pin_pad.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\activity_get_pin_pad.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\duplicateprint.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\duplicateprint.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_password.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\myprogressdialog.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\myprogressdialog.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pin_pad__list.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\activity_pin_pad__list.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dd__print.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\activity_dd__print.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\dashboard.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\dashboard.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\activity_special_drive.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\activity_special_drive.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\custom_progress_dialog.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\custom_progress_dialog.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline_dashboard.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\activity_offline_dashboard.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline__generate_case.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\activity_offline__generate_case.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dd__print.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\activity_dd__print.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\spot_challan.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\spot_challan.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\dynamic_violations.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\dynamic_violations.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\dynamic_violations.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\dynamic_violations.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\eff456cfa3a1387e1330af11a1bfe3ab45c71cb4\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dd__print.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\activity_dd__print.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\spot_challan_two.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\spot_challan_two.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\activity_date_of_birth__update.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\activity_date_of_birth__update.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\f62cf2fbb596e32d05777c427bee1627fe223a12\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\eff456cfa3a1387e1330af11a1bfe3ab45c71cb4\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\dashboard_pc.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\dashboard_pc.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\eff456cfa3a1387e1330af11a1bfe3ab45c71cb4\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\drunkdrive.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\drunkdrive.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_dropdown_item.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\cust_toast.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\cust_toast.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\f62cf2fbb596e32d05777c427bee1627fe223a12\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\spot_challan_two.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\spot_challan_two.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_device.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\list_item_device.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\activity_otp_input.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\activity_otp_input.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline__settings.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\activity_offline__settings.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline_dashboard.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\activity_offline_dashboard.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_releaseversion.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\activity_releaseversion.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\spot_response.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\spot_response.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\eff456cfa3a1387e1330af11a1bfe3ab45c71cb4\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\cust_pen_challans.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\cust_pen_challans.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\eff456cfa3a1387e1330af11a1bfe3ab45c71cb4\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_password.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\spot_challan.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\spot_challan.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\email_mobile_no.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\email_mobile_no.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pin_pad_list.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\activity_pin_pad_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\custom_progress_dialog.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\custom_progress_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\activity_respone__print.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\activity_respone__print.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\eff456cfa3a1387e1330af11a1bfe3ab45c71cb4\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_aadhaar_update.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\activity_aadhaar_update.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_otp.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\activity_otp.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\f62cf2fbb596e32d05777c427bee1627fe223a12\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\eff456cfa3a1387e1330af11a1bfe3ab45c71cb4\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_date_of_birth__update.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\activity_date_of_birth__update.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\f62cf2fbb596e32d05777c427bee1627fe223a12\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_popup_details.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\activity_popup_details.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dd__response__print.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\activity_dd__response__print.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_minor.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\activity_minor.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline__generate_case.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\activity_offline__generate_case.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\reports.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\reports.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\eff456cfa3a1387e1330af11a1bfe3ab45c71cb4\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\blutooth_list_devices.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\blutooth_list_devices.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\vhcle_hstry_pchallans.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\vhcle_hstry_pchallans.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\myprogressdialog.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\myprogressdialog.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings__old.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\activity_settings__old.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\dashboard.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\dashboard.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\cust_pen_challans.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\cust_pen_challans.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\spot_response.xml",
+        "source": "D:\\Android\\ETicketHydAPTP\\res\\layout\\spot_response.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\fake_no_alert.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\fake_no_alert.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\eff456cfa3a1387e1330af11a1bfe3ab45c71cb4\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\eff456cfa3a1387e1330af11a1bfe3ab45c71cb4\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_minor.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\activity_minor.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dashboard__old.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\activity_dashboard__old.xml"
+    },
+    {
+        "merged": "D:\\Android\\ETicketHydAPTP\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Srinivas\\.android\\build-cache\\26e9f35b24118c7c2f23f6bde5b3c65b12872872\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_special_drive.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\activity_special_drive.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_extra_passengers.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\activity_extra_passengers.xml"
+    },
+    {
+        "merged": "F:\\Studio_Workspace\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\generate_dd.xml",
+        "source": "F:\\Studio_Workspace\\ETicket-HYD\\res\\layout\\generate_dd.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\pending_challans_details.xml",
+        "source": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\res\\layout\\pending_challans_details.xml"
+    },
+    {
+        "merged": "F:\\E-Ticket-Hyd Backup\\08-Aug-2017\\ETicket-HYD\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\MANOHAR\\.android\\build-cache\\9f97e5c067e224aadcb5bf9a94b4dcd2fc871dd2\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    }
+]
